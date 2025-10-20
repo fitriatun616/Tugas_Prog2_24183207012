@@ -1,5 +1,5 @@
 Nama : Fitriatun Nisa' 
-Npm  :24183207012
+Nim  :24183207012
 Kelas:PTI 3A
 Class (Kelas) Mahasiswa
 ​Class adalah cetak biru (blueprint) atau template yang mendefinisikan sifat (atribut) dan perilaku (metode) dari sebuah objek.
